@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "**/node_modules": true,
+        "**/.gitignore": true,
+        "**/.vscode": true,
+        ".eslintignore": true,
+        "**/package-lock": true,
+        "**/package-lock.json": true,        
+        "**/.babelrc": true
+    },
+}
