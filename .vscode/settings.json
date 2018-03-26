@@ -6,6 +6,7 @@
         ".eslintignore": true,
         "**/package-lock": true,
         "**/package-lock.json": true,        
-        "**/.babelrc": true
+        "**/.babelrc": true,
+        "h-reload.js": true
     },
 }
